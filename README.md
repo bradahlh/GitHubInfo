@@ -4,6 +4,7 @@ Individual school project where we created an API to retrieve specific informati
 ## Installation
 To build:
 ```
+go get github.com/bradahlh/githubinfo
 go install github.com/bradahlh/githubinfo
 ```
 
